@@ -79,5 +79,5 @@ The dataset (`ericsson_patent_rich_dataset.csv`) was provided for coursework and
 - Outside factors (macroeconomic conditions, competitors, regulation) are not modelled.
 
 ---
-**Author:** Yi-Wen (Sophia) Su · https://www.linkedin.com/in/yi-wen-su-523a54433
+**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433/)
 
