@@ -2,7 +2,7 @@
 
 **Machine learning forecast of annual patent output and technology mix, based on 28,941 patent filings (1976–2024)**
 
-MSc Business Analytics group coursework (BMAN60422), Alliance Manchester Business School
+MSc Business Analytics group project , University of Manchester
 
 `Python` · `scikit-learn` · `pandas` · `TF-IDF` · `K-Means` · `Random Forest` · `SHAP`
 
@@ -78,8 +78,6 @@ The dataset (`ericsson_patent_rich_dataset.csv`) was provided for coursework and
 - Keyword flags come from titles only, which is a noisy proxy for technology. Patent classification codes (CPC/IPC) would be better.
 - Outside factors (macroeconomic conditions, competitors, regulation) are not modelled.
 
-## 👥 Team & my contribution
-Group project. **My contribution:** [fill in, e.g. built the forecasting pipeline / segmentation analysis / SHAP interpretation]
-
 ---
-**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/your-handle)
+**Author:** Yi-Wen (Sophia) Su · https://www.linkedin.com/in/yi-wen-su-523a54433
+
